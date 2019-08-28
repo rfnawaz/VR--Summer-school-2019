@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cec67108e8addfa4c976395487386c8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlaceableBoundsMaterial: {fileID: 2100000, guid: e6eec227f02047146bc128d0ccb4104b,
+      type: 2}
+  - NotPlaceableBoundsMaterial: {fileID: 2100000, guid: 1009aee032d6b564896aae62f9def0d2,
+      type: 2}
+  - PlaceableShadowMaterial: {fileID: 2100000, guid: b5476a89e54a0af459d082d1fc05aeda,
+      type: 2}
+  - NotPlaceableShadowMaterial: {fileID: 2100000, guid: 63c48155931d85d489b99d99dbf55617,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
